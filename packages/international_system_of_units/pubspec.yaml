@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   intl: ^0.18.1
-  international_system_of_units_locale: ^1.0.0-dev.4
+
 
 dev_dependencies:
   pedantic: ^1.8.0
