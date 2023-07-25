@@ -1,6 +1,4 @@
 import 'package:international_system_of_units/international_system_of_units.dart';
-import 'package:international_system_of_units/src/conversion/length/international_system.dart';
-import 'package:international_system_of_units/src/conversion/mass/international_system.dart';
 
 /// num is in kilograms per meters
 extension ISMassPerLength on num {
