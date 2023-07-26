@@ -5,8 +5,7 @@ repository: https://github.com/themumy10/international_system_of_units
 homepage: https://github.com/Kleak/international_system_of_units/blob/master/packages/international_system_of_units_locale/README.md
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-
+  sdk: ">=2.12.0 <3.0.0"
 dependencies:
   intl: ^0.18.1
 

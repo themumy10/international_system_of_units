@@ -12,5 +12,3 @@ export 'src/conversion/mass_per_length/mass_per_length.dart';
 export 'src/conversion/length_per_time/length_per_time.dart';
 export 'src/utils.dart';
 export 'src/unit_system.dart';
-export 'src/locale/locale.dart';
-export 'src/locale/fuel_economy.dart' show FuelEconomyUnit;
